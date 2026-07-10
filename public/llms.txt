@@ -1,0 +1,83 @@
+# R.K אינסטלציה — Generative Engine Optimization Map
+
+> A plumbing services business looking to establish an online presence. The business appears to offer plumbing-related services, though specific specializations, service areas, and unique selling points have not yet been defined.
+
+---
+
+## Pages
+
+### בית
+https://r-k-b39505ea.zappy5.app
+מחפשים שירותי אינסטלציה אמינים ומיידיים? R.K אינסטלציה מספקת תיקונים, התקנות ותחזוקה בסטנדרט הגבוה ביותר. התקשרו עוד היום לשירות ללא פשרות!
+
+### שירותים
+https://r-k-b39505ea.zappy5.app/services
+זקוקים לאינסטלטור או חשמלאי? גלו את מגוון שירותי האינסטלציה והחשמל המקיפים שלנו, מאיבחון תקלות ועד התקנות מתקדמות. פתרון מושלם לבית שלכם מחכה!
+
+### אודות
+https://r-k-b39505ea.zappy5.app/about
+רוצים לדעת מי עומד מאחורי האיכות? הכירו את המומחים של R.K אינסטלציה, המחויבים למצוינות, אמינות ושירות אישי בכל פרויקט. אנחנו כאן כדי להבטיח את השקט הנפשי שלכם.
+
+### צור קשר
+https://r-k-b39505ea.zappy5.app/contact
+מוכנים לפתור את בעיות האינסטלציה? צרו קשר עם R.K אינסטלציה עכשיו לקבלת ייעוץ חינם, הצעת מחיר הוגנת ושירות מהיר שיחזיר לכם את השקט. אנחנו מחכים לשיחה שלכם!
+
+### תודה - R.K אינסטלציה
+https://r-k-b39505ea.zappy5.app/thank-you
+R.K אינסטלציה - תודה - R.K אינסטלציה
+
+## Legal & Policy
+
+### Privacy Policy
+https://r-k-b39505ea.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://r-k-b39505ea.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://r-k-b39505ea.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://r-k-b39505ea.zappy5.app/contact
+- Endpoint: https://r-k-b39505ea.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About R.K אינסטלציה
+A plumbing services business looking to establish an online presence. The business appears to offer plumbing-related services, though specific specializations, service areas, and unique selling points have not yet been defined.
+
+## Target Audience
+- משפצים בתים
+- בעלי בתים חדשים
+- בעלי נכסים להשכרה
+- כולם
+
+## Industry
+Plumbing Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://r-k-b39505ea.zappy5.app/sitemap.xml
+- Robots: https://r-k-b39505ea.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://r-k-b39505ea.zappy5.app/llms-full.txt
